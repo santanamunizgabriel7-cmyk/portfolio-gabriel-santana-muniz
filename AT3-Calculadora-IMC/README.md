@@ -21,6 +21,6 @@
  apeiçõamento dos códigos e das medições e das classificações dos pesos e das 
  alturas.
 ## 💻 Deploy do projeto
-[Clique para acessar](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/edit/main/AT3-Calculadora-IMC/README.md)
+[Clique para acessar](https://santanamunizgabriel7-cmyk.github.io/Calculadora.IMC/)
 ---
 [Voltar ao início](https://github.com/santanamunizgabriel7-cmyk)
