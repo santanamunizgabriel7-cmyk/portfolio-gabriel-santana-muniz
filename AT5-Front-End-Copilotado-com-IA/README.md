@@ -23,4 +23,4 @@
 ## 💻 Deploy do projeto
 [Clique para acessar](https://santanamunizgabriel7-cmyk.github.io/site.Inteligencia.Artificial.Como.Colega.de.Trabalho/)
 ---
-[Voltar ao início](https://github.com/santanamunizgabriel7-cmyk)
+[Voltar ao início](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-)
