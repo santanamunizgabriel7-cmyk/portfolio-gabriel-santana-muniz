@@ -1,8 +1,8 @@
- # [Gabriel Santana Muniz]
+ # Gabriel Santana Muniz
  Estudado e focado na área em "Análise e Desenvolvimento de Sistemas" (Técnologo)
 ---
 ### 📫 Contato & Redes Sociais
- Linkedin: https://www.linkedin.com/in/gabriel-santana-muniz-219745449/ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santana-muniz-219745449/)
  
  Email: [santanamunizgabriel@gmail.com]
  Github: [https://github.com/santanamunizgabriel7-cmyk] 
