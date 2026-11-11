@@ -22,6 +22,6 @@ do site, geração dos textos e de alguns códigos das páginas, como um auxilio
 (Gemini) Com a melhora das estruturas dos códigos do site, avaliação e análise do site 
 se teve defeitos e algun código incorreto ou que não estava funcionando.
 ## 💻 Deploy do projeto
-[Clique para acessar](https://github.com/santanamunizgabriel7-cmyk/site-advogado)
+[Clique para acessar](file:///C:/Users/gabri/Documents/Advogado%20-%20Gabriel%20Santana%20Muniz%20-%20Jonas%20Oliveira%20Pires/index.html)
 ---
 [Voltar ao início](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/edit/main/AT1-Paginas-HTML/README.md)
