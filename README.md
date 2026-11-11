@@ -3,8 +3,7 @@
 ---
 ### 📫 Contato & Redes Sociais
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santana-muniz-219745449/)
- 
- Email: [santanamunizgabriel@gmail.com]
+ [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:santanamunizgabriel@gmail.com)
  Github: [https://github.com/santanamunizgabriel7-cmyk] 
  ---
 ### 󰞵 Sobre
