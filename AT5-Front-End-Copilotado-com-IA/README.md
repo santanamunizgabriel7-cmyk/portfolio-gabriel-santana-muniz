@@ -21,6 +21,6 @@
  e sendo usado na análise e observação do site,verifição para saber se timha algun código
  não funcionado ou incorretos.
 ## 💻 Deploy do projeto
-[Clique para acessar]()
+[Clique para acessar](https://santanamunizgabriel7-cmyk.github.io/site.Inteligencia.Artificial.Como.Colega.de.Trabalho/)
 ---
 [Voltar ao início](https://github.com/santanamunizgabriel7-cmyk)
