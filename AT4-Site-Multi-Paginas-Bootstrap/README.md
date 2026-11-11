@@ -19,6 +19,6 @@ grupos de códigos, e a melhora do processamento do site em sua mudança.
 ## 🧠 Uso de IA
  Não Foi Usado IA.
 ## 💻 Deploy do projeto
-[Clique para acessar](file:///C:/Users/gabri/Documents/AT4%20-%20Mercado%20Games/index.html)
+[Clique para acessar](https://santanamunizgabriel7-cmyk.github.io/site.MercadoGame/)
 ---
 [Voltar ao início](https://github.com/santanamunizgabriel7-cmyk)
