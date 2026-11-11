@@ -11,7 +11,7 @@ e a juridica.
 * **Bibliotecas:** Bootstrap
 * **Ferramentas:** VSCode
 * **Modelo de IA:** Chatgpt, Gemini e Copilot
-## 📊 Aprendizado e Resultado
+## 📊 Construção e Resultado
  Defeitos e Erros: Ao longo do desenvolvimento do site, vimos varios erros e defeitos 
  durante a construção do projeto, como html incorreto, faltas de códigos, links e pa-
  rtes das páginas não conectados, Fora a organização das estruturas dos códigos e ma-
@@ -25,6 +25,6 @@ do site, geração dos textos e de alguns códigos das páginas, como um auxilio
 (Gemini) Com a melhora das estruturas dos códigos do site, avaliação e análise do site 
 se teve defeitos e algun código incorreto ou que não estava funcionando.
 ## 💻 Deploy do projeto
-[Clique para acessar](https://github.com/santanamunizgabriel7-cmyk/site-advogado)
+[Clique para acessar](https://santanamunizgabriel7-cmyk.github.io/site-advogado/)
 ---
-[Voltar ao início](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/edit/main/AT1-Paginas-HTML/README.md)
+[Voltar ao início]()
