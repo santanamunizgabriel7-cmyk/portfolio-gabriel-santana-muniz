@@ -1,23 +1,22 @@
- # 🎬 Nome do Projeto
- Mercado Game
-## 📝 Descrição do Projeto
+ # 🎬 Mercado Game
+## 📝 Sobre
  Esse é um site de jogos e games, que tem vendas, compras, jogos para baixar e jogar,
  varios tipos, jogos online, multijogador, de história, aventura e muito mais, e até
 planos de jogos. Esse site foi desenvolvido para os jogadores fazerem compras e achar 
 seus jogos favoritos e populares no mundo atual, de forma mais simples e fácil de acessar
 hoje em dia.
-## 🚀 Tecnologias Utilizadas
+## 🚀 Ferramentas Utilizadas
 * **Linguagem:** HTML5 e CSS
 * **Bibliotecas:** Bootstrap
 * **Ferramentas:** VSCode
 * **Modelo de IA:** Chatgpt
-## 📊 Resultados e Aprendizados
+## 📊 Construção e Resultado
  Resultados: Ao de seu deselvovimento, teve códigos e modelos de estruturas inplatados
  em seu modelo atual, com um desing simples, botões fáceis e simples em seu modelo, que
  velho alguns problemas a serem corrigidos e a serem arrumados.
 Aprendizados: Os seus modelos da forma adequada, os layouts certos, a separação dos 
 grupos de códigos, e a melhora do processamento do site em sua mudança.
-## 🧠 Declaração de Uso Ético da IA
+## 🧠 Uso de IA
  Não Foi Usado IA.
 ## 💻 Deploy do projeto
 [Clique para acessar](file:///C:/Users/gabri/Documents/AT4%20-%20Mercado%20Games/index.html)
