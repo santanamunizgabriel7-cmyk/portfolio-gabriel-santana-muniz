@@ -23,4 +23,4 @@
 ## 💻 Deploy do projeto
 [Clique para acessar](https://santanamunizgabriel7-cmyk.github.io/Calculadora.IMC/)
 ---
-[Voltar ao início](https://github.com/santanamunizgabriel7-cmyk)
+[Voltar ao início](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-)
